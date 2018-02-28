@@ -1,4 +1,4 @@
-// go webserver for Docker tests
+// go webserver for Docker containers
 // fm 02-2018
 package main
 
