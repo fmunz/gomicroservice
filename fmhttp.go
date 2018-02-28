@@ -1,3 +1,5 @@
+// go webserver for Docker tests
+// fm 02-2018
 package main
 
 import (
