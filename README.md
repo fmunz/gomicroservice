@@ -8,7 +8,7 @@ compile with the following command
 
 ## Docker 
 
-compile for Docker container (Linux ELF binary)
+compile for Docker container (Linux ELF binary), CGO_ENABLED=0 means static binary
 
     CGO_ENABLED=0 GOOS=linux go build fmhttp.go
 
